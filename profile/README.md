@@ -1,4 +1,5 @@
-# jawaversity
-Profile about us.
+# Jawaversity
 
-BENTAR JIR LAGI BINGUNG MAU BIKIN PROJEK APA WKWKWKWKWKWK
+Jawaversity merupakan channel pemrograman Website Bahasa Indonesia.
+
+### Coming soon!
